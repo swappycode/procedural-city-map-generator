@@ -371,6 +371,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="C:\Users\HP\source\repos\pcg\main.cpp" />
+    <ClCompile Include="src\main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\HP\source\repos\pcg\build\x64-debug\ZERO_CHECK.vcxproj">

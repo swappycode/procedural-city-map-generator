@@ -4,6 +4,7 @@
     <ClCompile Include="C:\Users\HP\source\repos\pcg\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\Users\HP\source\repos\pcg\CMakeLists.txt" />
