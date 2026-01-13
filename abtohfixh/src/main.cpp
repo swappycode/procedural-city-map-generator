@@ -340,7 +340,7 @@ int main() {
         }
 
         // ---- DRAW BUILDINGS ----
-
+        //--forgit
 
 
         for (auto& blk : blocks) {
